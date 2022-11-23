@@ -43,6 +43,7 @@ System.out.println("La cantidad de galones es: "+ CantGalones);
 System.out.println("El precio por galón es: "+ PrecioxGalones);
 System.out.println("La cantidad de litros es: "+ CantLitros);
 System.out.println("El precio a pagar es: "+ precioxPagar);
+        System.out.println("");
 
 
 
